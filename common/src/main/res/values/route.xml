@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_route">android-app://nissecloud.com/onboarding</string>
+    <string name="login_route">android-app://nissecloud.com/login</string>
+    <string name="product_route">android-app://nissecloud.com/products</string>
+    <string name="cart_route">android-app://nissecloud.com/cart</string>
+    <string name="product_detail_route">android-app://nissecloud.com/product_detail</string>
+</resources>

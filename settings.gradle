@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Nissecloud"
+include ':app'
+include ':feature:login'
+include ':feature:products'
+include ':feature:detail'
+include ':feature:cart'
+include ':feature:onboarding'
+include ':common'
+include ':logging'

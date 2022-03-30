@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_error"/>
+    <string name="empty_password">Password field cannot be empty</string>
+    <string name="invalid_password">Min of 8 chars, min 1 uppercase, lowercase, number, and symbol.</string>
+    <string name="loading">Loading...</string>
+</resources>
